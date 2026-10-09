@@ -1,6 +1,6 @@
 # AWS SAA-C03: From Certification to Enterprise Engineering with Terraform
 
-## Learning Roadmap
+## Roadmap
 
 ### 1. Getting Started with AWS
 
