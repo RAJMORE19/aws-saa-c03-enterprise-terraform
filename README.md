@@ -143,7 +143,7 @@
 
 ---
 
-## Planned Repository Structure
+## Repository Structure
 
 I will start small and add folders as I complete the work. This is the intended structure, not a claim that every lab already exists.
 
